@@ -1,0 +1,16 @@
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe.config
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\TopShelfDemo.pdb
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.dll
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.Settings.AppSettings.dll
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Topshelf.dll
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.xml
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\bin\Debug\Topshelf.xml
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\obj\Debug\TopShelfDemo.csprojResolveAssemblyReference.cache
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\obj\Debug\TopShelfDemo.csproj.CoreCompileInputs.cache
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\obj\Debug\TopShelfDemo.exe
+C:\Users\vkarmendra\Documents\Visual Studio 2017\Projects\TopShelfDemo\TopShelfDemo\obj\Debug\TopShelfDemo.pdb
