@@ -1,7 +1,7 @@
 # servicedemo
-Topshelf Serilog Powershell script 
+Demo project to see how topshelf works and installing the same.
 
-*** To install topshelf service using power shell script
+### To install topshelf service using power shell script
 
 > powershell -ExecutionPolicy ByPass -File .\installservice.ps1 '&lt;ServiceDisplayName>' '&lt;TopShelfServicePath>'
 
